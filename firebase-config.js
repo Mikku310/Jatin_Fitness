@@ -1,4 +1,4 @@
-const firebaseConfig = {
+window.firebaseConfig = {
   apiKey: "AIzaSyBN9ICbUzsLWKguX8_vBRGkv-dHm2TC80E",
   authDomain: "jatin-fitness-tracker-b6de4.firebaseapp.com",
   projectId: "jatin-fitness-tracker-b6de4",
