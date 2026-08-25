@@ -1,11 +1,8 @@
-// Replace these placeholders with the Web App configuration from Firebase Console.
-// This configuration identifies your Firebase project. Access to user data is
-// protected by Firebase Authentication and the Firestore rules in firestore.rules.
 window.firebaseConfig = {
-  apiKey: "PASTE_YOUR_API_KEY",
-  authDomain: "PASTE_YOUR_PROJECT.firebaseapp.com",
-  projectId: "PASTE_YOUR_PROJECT",
-  storageBucket: "PASTE_YOUR_PROJECT.appspot.com",
-  messagingSenderId: "PASTE_YOUR_SENDER_ID",
-  appId: "PASTE_YOUR_APP_ID"
+  apiKey: "AIzaSyCvzZbTVl9oMh9Mm5WRsugIX1lgvkybNPA",
+  authDomain: "jatin-fitness-tracker.firebaseapp.com",
+  projectId: "jatin-fitness-tracker",
+  storageBucket: "jatin-fitness-tracker.firebasestorage.app",
+  messagingSenderId: "816619496122",
+  appId: "1:816619496122:web:a1b10a1d0c97f5ef23d883"
 };
